@@ -30,5 +30,7 @@ public class App3Pilas {
 		
 		System.out.println("Esta la pila vacia? " + (pila.isEmpty()? "Si": "No"));
 	}
-
+//mayra azenet
+//perla rubi
+//karla janeth
 }
