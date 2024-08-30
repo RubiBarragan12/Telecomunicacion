@@ -32,5 +32,6 @@ public class App3Pilas {
 	}
 //mayra azenet
 //perla rubi
-//karla janeth
+//karla janeth:El código es claro y fácil de entender, cumpliendo bien su propósito de invertir 
+// la cadena ingresada mediante una pila. Solo recomendaria añadir una verificacion de entrada para manejar casos en donde no se ingrese una cadena
 }
